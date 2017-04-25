@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="WolfieBall_Draft_Kit.jnlp">
+  <information>
+    <title>WolfieBall_Draft_Kit</title>
+    <vendor>Leon</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="WolfieBall_Draft_Kit.jar" size="63947" download="eager" />
+    <jar href="lib/PropertiesManager.jar" size="5287" download="eager" />
+    <jar href="lib/XMLUtilities.jar" size="7418" download="eager" />
+    <jar href="lib/javax.json-1.0.4.jar" size="85147" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="WolfieBall_Draft_Kit" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="wdk.CourseSiteBuilder"  name="WolfieBall_Draft_Kit" />
+  <update check="always"/>
+</jnlp>

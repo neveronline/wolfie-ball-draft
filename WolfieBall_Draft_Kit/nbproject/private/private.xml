@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>src/wdk/gui/wolfie_GUI.java</url>
+            <bookmark id="4">
+                <name/>
+                <line>667</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/css/csb_style.css</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/DraftDataView.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/FantasyTeam.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/Draft.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/Contract.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/controller/FantasyTeamController.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/Player.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/gui/wolfie_GUI.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/DraftDataManager.java</file>
+            <file>file:/C:/Users/Leon/Documents/NetBeansProjects/final%20project/WolfieBall_Draft_Kit/src/wdk/data/ProTeam.java</file>
+        </group>
+    </open-files>
+</project-private>
